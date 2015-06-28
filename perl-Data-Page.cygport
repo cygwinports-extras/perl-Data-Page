@@ -1,0 +1,11 @@
+CPAN_AUTHOR=lbrocard
+inherit perl
+
+NAME="perl-Data-Page"
+VERSION=2.02
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl distribution Data-Page"
+DESCRIPTION="Perl module for paging through sets of results"
+
+ARCH=noarch
